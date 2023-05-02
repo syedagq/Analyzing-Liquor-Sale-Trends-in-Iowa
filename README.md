@@ -1,5 +1,5 @@
 # Analyzing-Liquor-Sale-Trends-in-Iowa
-# Anmol Srivastava, Arjun Aggarwal, Hengyuan (Ken) Cao, Mugdha Khairnar,Syeda Ghazal Qadri
+## Group Members: Anmol Srivastava, Arjun Aggarwal, Hengyuan (Ken) Cao, Mugdha Khairnar,Syeda Ghazal Qadri
 
 
 # 1. Executive Summary 
